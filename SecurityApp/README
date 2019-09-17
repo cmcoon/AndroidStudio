@@ -1,0 +1,5 @@
+This simple app requires a user to enter a password "1234" to unlock the device.
+
+Once unlocked the user then has the option to lock the app again. 
+
+No functinoality exists for changing the password. 
